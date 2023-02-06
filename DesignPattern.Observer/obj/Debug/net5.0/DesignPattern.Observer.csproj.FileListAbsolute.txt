@@ -1,0 +1,16 @@
+C:\Users\Hugo\source\repos\DesignPattern.Builder\DesignPattern.Observer\bin\Debug\net5.0\DesignPattern.Observer.exe
+C:\Users\Hugo\source\repos\DesignPattern.Builder\DesignPattern.Observer\bin\Debug\net5.0\DesignPattern.Observer.deps.json
+C:\Users\Hugo\source\repos\DesignPattern.Builder\DesignPattern.Observer\bin\Debug\net5.0\DesignPattern.Observer.runtimeconfig.json
+C:\Users\Hugo\source\repos\DesignPattern.Builder\DesignPattern.Observer\bin\Debug\net5.0\DesignPattern.Observer.runtimeconfig.dev.json
+C:\Users\Hugo\source\repos\DesignPattern.Builder\DesignPattern.Observer\bin\Debug\net5.0\DesignPattern.Observer.dll
+C:\Users\Hugo\source\repos\DesignPattern.Builder\DesignPattern.Observer\bin\Debug\net5.0\DesignPattern.Observer.pdb
+C:\Users\Hugo\source\repos\DesignPattern.Builder\DesignPattern.Observer\obj\Debug\net5.0\DesignPattern.Observer.csproj.AssemblyReference.cache
+C:\Users\Hugo\source\repos\DesignPattern.Builder\DesignPattern.Observer\obj\Debug\net5.0\DesignPattern.Observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\source\repos\DesignPattern.Builder\DesignPattern.Observer\obj\Debug\net5.0\DesignPattern.Observer.AssemblyInfoInputs.cache
+C:\Users\Hugo\source\repos\DesignPattern.Builder\DesignPattern.Observer\obj\Debug\net5.0\DesignPattern.Observer.AssemblyInfo.cs
+C:\Users\Hugo\source\repos\DesignPattern.Builder\DesignPattern.Observer\obj\Debug\net5.0\DesignPattern.Observer.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\source\repos\DesignPattern.Builder\DesignPattern.Observer\obj\Debug\net5.0\DesignPattern.Observer.dll
+C:\Users\Hugo\source\repos\DesignPattern.Builder\DesignPattern.Observer\obj\Debug\net5.0\refint\DesignPattern.Observer.dll
+C:\Users\Hugo\source\repos\DesignPattern.Builder\DesignPattern.Observer\obj\Debug\net5.0\DesignPattern.Observer.pdb
+C:\Users\Hugo\source\repos\DesignPattern.Builder\DesignPattern.Observer\obj\Debug\net5.0\DesignPattern.Observer.genruntimeconfig.cache
+C:\Users\Hugo\source\repos\DesignPattern.Builder\DesignPattern.Observer\obj\Debug\net5.0\ref\DesignPattern.Observer.dll

@@ -1,0 +1,16 @@
+C:\Users\Hugo\source\repos\DesignPattern.Builder\DesignPattern.Builder\bin\Debug\net5.0\DesignPattern.Builder.exe
+C:\Users\Hugo\source\repos\DesignPattern.Builder\DesignPattern.Builder\bin\Debug\net5.0\DesignPattern.Builder.deps.json
+C:\Users\Hugo\source\repos\DesignPattern.Builder\DesignPattern.Builder\bin\Debug\net5.0\DesignPattern.Builder.runtimeconfig.json
+C:\Users\Hugo\source\repos\DesignPattern.Builder\DesignPattern.Builder\bin\Debug\net5.0\DesignPattern.Builder.runtimeconfig.dev.json
+C:\Users\Hugo\source\repos\DesignPattern.Builder\DesignPattern.Builder\bin\Debug\net5.0\DesignPattern.Builder.dll
+C:\Users\Hugo\source\repos\DesignPattern.Builder\DesignPattern.Builder\bin\Debug\net5.0\DesignPattern.Builder.pdb
+C:\Users\Hugo\source\repos\DesignPattern.Builder\DesignPattern.Builder\obj\Debug\net5.0\DesignPattern.Builder.csproj.AssemblyReference.cache
+C:\Users\Hugo\source\repos\DesignPattern.Builder\DesignPattern.Builder\obj\Debug\net5.0\DesignPattern.Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\source\repos\DesignPattern.Builder\DesignPattern.Builder\obj\Debug\net5.0\DesignPattern.Builder.AssemblyInfoInputs.cache
+C:\Users\Hugo\source\repos\DesignPattern.Builder\DesignPattern.Builder\obj\Debug\net5.0\DesignPattern.Builder.AssemblyInfo.cs
+C:\Users\Hugo\source\repos\DesignPattern.Builder\DesignPattern.Builder\obj\Debug\net5.0\DesignPattern.Builder.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\source\repos\DesignPattern.Builder\DesignPattern.Builder\obj\Debug\net5.0\DesignPattern.Builder.dll
+C:\Users\Hugo\source\repos\DesignPattern.Builder\DesignPattern.Builder\obj\Debug\net5.0\refint\DesignPattern.Builder.dll
+C:\Users\Hugo\source\repos\DesignPattern.Builder\DesignPattern.Builder\obj\Debug\net5.0\DesignPattern.Builder.pdb
+C:\Users\Hugo\source\repos\DesignPattern.Builder\DesignPattern.Builder\obj\Debug\net5.0\DesignPattern.Builder.genruntimeconfig.cache
+C:\Users\Hugo\source\repos\DesignPattern.Builder\DesignPattern.Builder\obj\Debug\net5.0\ref\DesignPattern.Builder.dll
